@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Antro Vasanth
 
-<!--
-**AntroGitUser/AntroGitUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at XYZ College  
+💻 Passionate about coding, building projects, and learning new tech  
+🚀 Aspiring Software Engineer | Future MBA
 
-Here are some ideas to get you started:
+## 💼 Projects
+- 🔗 [Smart Health Record System](https://github.com/yourusername/shr-project)
+- 📱 [Android MCQ Scanner](https://github.com/yourusername/mcq-scanner)
+- 💡 [Simple Portfolio Website](https://github.com/yourusername/portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Languages: C, Java, Python, C#, JavaScript
+- Tools: Git, VS Code, MongoDB, Node.js
+- Web: HTML, CSS, Angular, .NET
+
+## 📫 Contact Me
+- Email: yourname@example.com
+- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/yourusername)
